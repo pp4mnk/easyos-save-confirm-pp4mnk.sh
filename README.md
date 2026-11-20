@@ -16,7 +16,7 @@ I made two versions for different situations.
 
 That difference matters after a long session. I might have used **Save** earlier, then edited a script again. The basic view helps me spot that later edit. The original view gives me more context about what was already prepared. EasyOS still handles the save itself, including the copy it can prepare when I use the **Save** icon. The script gives me a chance to review the information before confirming.
 
-Both versions are available in English and Spanish. They were designed for EasyOS Excalibur 7.5.3 and require Python 3 and YAD. To try the English basic version, run `sh easyos-save-confirm-pp4mnk-en.sh --install`. Use `--preview` to open the list separately or `--uninstall` to restore the original EasyOS dialog.
+Both versions are available in English and Spanish. They were designed for EasyOS Excalibur 7.5.4 and require Python 3 and YAD. To try the English basic version, run `sh easyos-save-confirm-pp4mnk-en.sh --install`. Use `--preview` to open the list separately or `--uninstall` to restore the original EasyOS dialog.
 
 For me, the useful part is being able to finish the day without relying on memory alone. I can see what changed, recognise the files I care about, and decide what to carry into the next session.
 
@@ -34,7 +34,7 @@ El script añade una ventana de revisión al cuadro de guardado de EasyOS. Cuand
 
 La diferencia se aprecia cuando ya he pulsado **Save** y después vuelvo a editar un archivo. La versión básica me ayuda a localizar ese último cambio. Si quiero saber qué contenía la copia anterior, puedo consultar la versión detallada. El guardado lo sigue gestionando EasyOS. Al usar el icono **Save** durante la sesión, el sistema puede preparar una copia para incorporarla más tarde. La ventana de confirmación me permite revisar los cambios antes de tomar la decisión.
 
-Las dos versiones están disponibles en español y en inglés. Están diseñadas para EasyOS Excalibur 7.5.3 y requieren Python 3 y YAD. Para instalar la versión básica en español, se puede ejecutar `sh easyos-save-confirm-pp4mnk-es.sh --install`. La opción `--preview` abre el listado por separado y `--uninstall` restaura el cuadro de diálogo original de EasyOS.
+Las dos versiones están disponibles en español y en inglés. Están diseñadas para EasyOS Excalibur 7.5.4 y requieren Python 3 y YAD. Para instalar la versión básica en español, se puede ejecutar `sh easyos-save-confirm-pp4mnk-es.sh --install`. La opción `--preview` abre el listado por separado y `--uninstall` restaura el cuadro de diálogo original de EasyOS.
 
 Lo que más valoro es poder revisar los cambios con la sesión todavía abierta. Si hay un archivo que no esperaba encontrar, puedo abrirlo y comprobar qué pasó. Si veo los cambios que quería conservar, puedo confirmar el guardado con una idea más clara de lo que me llevaré a la siguiente sesión. Después de horas de trabajo, agradezco poder decidir con la lista delante.
 
